@@ -1,11 +1,11 @@
-# CMPSC 100 Summer 2020 Repository Template
+# CMPSC 100 Summer 2020 Week 1 Class Activities Repository
 
-This repository contains all files necessary to:
+This repository contains all files necessary to complete class activities during week 1.
+This repository is designed to be used with Allegheny's JupyterHub.
 
-* Perform routine `gradle` commands
-  * `gradle build`: Converts `.ipynb` files to `.py` files
-  * `gradle grade`: Runs GatorGrader
-* Manage Jupyter files
-* Manage raw Python `.py` files
-* Grade assignments using Travis CI and GatorGrader
-  * For GatorGrader, see `GatorGrader.yml` in the `config` directory
+To begin with class activities, students should first clone the repository in their JupyterHub 
+terminal and then navigate to an appropriate Jupyter notebook.
+
+* `sandbox` directory contain a Jupyter notebook to be used for  experimentation and practice 
+in and outside of class time.
+* `worksheets` directory contains a Jupyter notebook for a structured class activity.
