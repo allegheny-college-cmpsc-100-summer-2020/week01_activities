@@ -1,4 +1,4 @@
-# CMPSC 100 Summer 2020 Week 1 Class Activities Repository
+# CMPSC 100 Summer 2020 Week 1 Class Activities
 
 This repository contains all files necessary to complete class activities during week 1.
 This repository is designed to be used with Allegheny's JupyterHub.
